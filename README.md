@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tthheusalmeida/zelda-project/blob/main/LICENSE">
+  <a href="https://github.com/MaxLunar-Ops/zelda-project/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
   </a>
 </p>
@@ -36,12 +36,12 @@ The project was developed with the following technologies:
 
 ### 📱 Mobile
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img src="https://github.com/tthheusalmeida/zelda-project/blob/main/src/assets/zelda-mobile.gif" width="200">
+  <img src="https://github.com/MaxLunar-Ops/zelda-project/blob/main/src/assets/zelda-mobile.gif" width="200">
 </div>
 
 ### 🖥️ Desktop
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img src="https://github.com/tthheusalmeida/zelda-project/blob/main/src/assets/zelda-desktop.gif" width="800">
+  <img src="https://github.com/MaxLunar-Ops/zelda-project/blob/main/src/assets/zelda-desktop.gif" width="800">
 </div>
 
 <a id="try-project"></a>
@@ -50,7 +50,7 @@ The project was developed with the following technologies:
 
 First clone the project:
 
-git clone https://github.com/tthheusalmeida/zelda-project.git
+git clone https://github.com/MaxLunar-Ops/zelda-project.git
 
 
 Open ``index.html`` file,
@@ -73,5 +73,5 @@ Enjoy!
 This project is under the MIT license. see the [license page](https://opensource.org/licenses/MIT) for more details.
 
 <h4 align="center">
-  Made with ❤️ by <a href="https://www.linkedin.com/in/matheus-almeida-602139182/" target="_blank">Matheus Almeida</a>
+  Made with ❤️ by Max Jones</a>
 </h4>
